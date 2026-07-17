@@ -47,7 +47,6 @@ Each paper folder contains:
 -   Distributed inference
 -   vLLM
 -   KV Cache
--   RAG
 -   `torch.compile`
 -   Model optimization
 -   AI infrastructure

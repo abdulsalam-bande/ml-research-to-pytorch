@@ -48,7 +48,6 @@ Each paper folder contains:
 -   vLLM
 -   KV Cache
 -   RAG
--   MCP
 -   `torch.compile`
 -   Model optimization
 -   AI infrastructure
